@@ -1,0 +1,2 @@
+# tendies-generator
+一款在你的iPhone上将任意图片转化为类似魅族的可交互壁纸工具
